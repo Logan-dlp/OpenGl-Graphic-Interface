@@ -1,0 +1,11 @@
+﻿  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+L:\Documents\Fork\OpenGl-Graphic-Interface\OpenGlGraphicInterface\Project1\src\Renderer.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory
+L:\Documents\Fork\OpenGl-Graphic-Interface\OpenGlGraphicInterface\Project1\src\Renderer.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory
+L:\Documents\Fork\OpenGl-Graphic-Interface\OpenGlGraphicInterface\Project1\src\Renderer.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory
+  VertexArray.cpp
+L:\Documents\Fork\OpenGl-Graphic-Interface\OpenGlGraphicInterface\Project1\src\Renderer.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory
+  VertexBuffer.cpp
+L:\Documents\Fork\OpenGl-Graphic-Interface\OpenGlGraphicInterface\Project1\src\Renderer.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory
+  Génération de code en cours...
