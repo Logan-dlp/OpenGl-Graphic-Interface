@@ -1,6 +1,7 @@
 ﻿#include "VertexBuffer.h"
 
 #include "Renderer.h"
+#include "vendor/stb_image/stb_image.h"
 
 VertexBuffer::VertexBuffer(const void* data, unsigned int size)
 {
